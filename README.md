@@ -1,2 +1,14 @@
-# S3deu.github.io
-DNS Consult / 3D-CC ...website
+# Welcome to 3D-CC
+
+> An independent consulting & training centre for human sense based perception in 3D
+
+> S3D - the market of the future
+
+Last event organized:
+
+16. July 2015
+Seefeld (near Munich), Germany 
+
+![S3D Today](Images/Logo_S3D.jpg)
+
+---
