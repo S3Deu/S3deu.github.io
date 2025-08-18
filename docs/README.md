@@ -1,4 +1,5 @@
-# Welcome to 3D-CC
+
+## Welcome to 3D-CC
 
 > An independent consulting & training centre for human sense based perception in 3D
 
