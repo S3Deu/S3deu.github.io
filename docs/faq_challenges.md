@@ -1,4 +1,4 @@
-# Why is the marketing of 3D-products still challenging ?
+## Why is the marketing of 3D-products still challenging ?
 
 „Human beings are creatures of habit“ – that is why we often opose the „new“ or “unfamiliar”. But human beings also are curious and enthusiastic – for example when they experience practical things, of which they had – up to now and based on their experience – always thought that it would not be possible to create them artificially.
 
