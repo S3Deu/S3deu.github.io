@@ -1,8 +1,8 @@
-# S3D®-Expo photokina 2008
+# S3D®-Expo at photokina 2008
 
 ![Banner](Images/_wsb_408x121_S3D-Expo_550.jpg)
 
-The "S3D-Expo" has been held at
+The "S3D®-Expo" has been held at
 
 ![photokina](Images/photokina+2008_banner_neutral_400+x+42.jpg)
 
@@ -31,7 +31,7 @@ Sponsors:
 
 ---
 
-Because of the “non-trading character” of the 3D-CC (DNS Consult) as an independent consulting company and because at our booth had been given open presentations and practical demonstrations to public visitors, we could achieve that the “S3D-Expo” had been listed as a
+Because of the “non-trading character” of the 3D-CC (DNS Consult) as an independent consulting company and because at our booth had been given open presentations and practical demonstrations to public visitors, we could achieve that the “S3D®-Expo” had been listed as a
 
 **part of the official “Supporting programme: Activity areas & events” at photokina**
 
