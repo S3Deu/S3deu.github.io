@@ -1,4 +1,4 @@
-## S3D®-showroom
+## S3D®-Showroom
 
 ![Showroom](Images/_wsb_320x92_augen_showroom_500.jpg)
 
