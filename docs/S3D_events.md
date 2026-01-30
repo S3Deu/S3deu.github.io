@@ -1,4 +1,4 @@
-# Events
+# S3D®-Events
 
 **Special events organized by the 3D-CC take place regularly and can be booked individually!**
 
