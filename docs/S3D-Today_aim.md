@@ -1,4 +1,4 @@
-# S3D®-Today
+## S3D®-Today
 
 ## Aim of the event
 
