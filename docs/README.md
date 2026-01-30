@@ -3,7 +3,6 @@
 
 > An independent consulting & training centre for human sense based perception in 3D
 
-> S3D - the market of the future
 
 Last event organized:
 
