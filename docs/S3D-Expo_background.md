@@ -1,4 +1,4 @@
-# S3D®-Expo
+## S3D®-Expo
 
 The **S3D®-Expo** has the concept of a temporary exhibition as part of well-known international trade shows or in combination with specialized conferences and events.
 
