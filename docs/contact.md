@@ -1,6 +1,6 @@
 ## Contact
 
-**3D-CC, 3D-Competence-Center    **
+**3D-CC, 3D-Competence-Center...**
 
 *...a division of DNS Consult, owner Lutz Moehr*
 
