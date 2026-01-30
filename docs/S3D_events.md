@@ -2,7 +2,7 @@
 
 **Special events organized by the 3D-CC take place regularly and can be booked individually!**
 
-Events can also be targeted for specific topics (e.g. presentation of specialized 3D software products) or specific **audiences** (e.g. S3D-Business-Club member).
+Events can also be targeted for specific topics (e.g. presentation of specialized 3D software products) or specific **audiences** (e.g.  S3D®-Business-Club member).
 
 **The next international conference organized by the 3D-CC is coming soon:**
 
