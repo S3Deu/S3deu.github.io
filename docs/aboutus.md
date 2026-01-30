@@ -2,7 +2,7 @@
 
 ### ”As the tree so the fruit..“
 
-Our competence is based on over 20 years of professional experience in the sector of business develoment, especially in IT and display technologies of the **owner Lutz Moehr** as well as on his, some times, special experiences with the different cultures of the world.
+Our competence is based on over 35 years of professional experience in the sector of business develoment, especially in IT and display technologies of the **owner Lutz Moehr** as well as on his, some times, special experiences with the different cultures of the world.
 
 Born in 1962 in Mecklenburg-Vorpommern (that time "Eastern Germany") Lutz Moehr graduated from High School in Halle/Salle with the qualification to enter university. During his studies and the PhD he experienced 8 years of Romania “live”. In October 1989 did break off his PhD and did escape – via Hungary - into the free Western Germany.
 
