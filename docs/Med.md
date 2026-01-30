@@ -1,4 +1,4 @@
-# S3D®-Workshop Medical 2010
+## S3D®-Workshop Medical 2010
 
 ![Banner](Images/Banner_S3D-Med_no+sponsors.png)
 
