@@ -1,4 +1,4 @@
-# S3D-Expo 2013 
+# S3D®-Expo 2013 
 
 in combination with
 
