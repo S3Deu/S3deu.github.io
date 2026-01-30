@@ -1,4 +1,4 @@
-# What are the applications for „Stereo-3D“ ?
+## What are the applications for „Stereo-3D“ ?
 
 The question about the practical (potential) applications of „Stereo-3D“ you could answer with a counter-question:
 
