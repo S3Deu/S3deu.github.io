@@ -6,7 +6,7 @@
 
 Last event organized:
 
-16. July 2015
+16.July 2015
 Seefeld (near Munich), Germany 
 
 ![S3D Today](Images/Logo_S3D.jpg)
