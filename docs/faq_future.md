@@ -1,4 +1,4 @@
-# Why will „Stereo-3D“ be the market of the future ?
+## Why will „Stereo-3D“ be the market of the future ?
 
 Not only the IT-world is looking for new markets and new products to boost buyers´ demand. The rapid “DotCom” euphoria was followed by an exaggerated pessimism with regard to new technologies.
 
