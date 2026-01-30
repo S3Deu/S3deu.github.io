@@ -1,4 +1,4 @@
-## WELCOME to the 3D-CC
+## WELCOME.... to the 3D-CC
 
 which is a specialized division of DNS Consult, owner Lutz Moehr.
 
