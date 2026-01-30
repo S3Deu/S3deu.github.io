@@ -1,4 +1,4 @@
-# FAQs (frequently asked questions)
+## FAQs (frequently asked questions)
 
 [1. What is the difference between 2D, 3D, 4D and „Stereo-3D“?](faq_s3d.md)
 
