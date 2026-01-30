@@ -11,9 +11,6 @@ Schanzenberg 2
 **Value-added tax identification number**  
 **VAT ID No.: DE 151175943**  
 
-**Telephone:**  
-+49 (0) 700 - 78.37.36.33     (12 cent/min.)
-+49 (0) 700 - STEREO3D       (12 cent/min.)
 
 **Responsible by law (§ 6 MDStV)**  
 Lutz Möhr 
