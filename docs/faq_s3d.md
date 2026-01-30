@@ -1,4 +1,4 @@
-# What is the difference between 2D, 3D, 4D and „Stereo-3D“ ?
+## What is the difference between 2D, 3D, 4D and „Stereo-3D“ ?
 
 **2D representation** in 2 dimensions: height and width
 
