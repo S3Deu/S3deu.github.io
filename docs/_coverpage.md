@@ -8,8 +8,9 @@
 
 -  Seeing - Hearing - Haptics (Touching)
 
-- (Scroll down for more info...)
+- **(Scroll down for more info...)**
 
 [LinkedIn](https://www.linkedin.com/in/lutz-moehr-63a41b7)  
+
 
 
