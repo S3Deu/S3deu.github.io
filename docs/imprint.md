@@ -16,7 +16,7 @@ Schanzenberg 2
 Lutz Möhr 
 
 **Copyright**  
-Copyright by DNS Consult, owner Lutz Möhr. All rights reserved.
+Copyright by DNS Consult, owner Lutz Moehr. All rights reserved.
 All texts, artwork, graphics, sound, video and animated files, as well as their arrangements are subject to copyright and other laws on the protection of intellectual property. They must not be copied or altered for trade purposes or transmission and used on other websites.
 
 **Guarantee**  
