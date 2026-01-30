@@ -10,7 +10,7 @@ The [S3D®-Expo](S3D-Expo.md) has the concept of a temporary exhibition as part 
 
 The international conference [S3D®-Today](S3D-Today_aim.md) is mainly focusing on **Stereo-3D-Content** and **MARKETING** aspects and should help to bring the innovative “Stereo-3D-Message” to the potential sales and marketing channels and by this way TO THE MARKET!
 
-The concept of the international conference S3D-Basics does mainly focus on the **fundamental basic issues** in regards to Stereo-3D and should help to bring the international “**Stereo-3D-community**” closer together.
+The concept of the international conference S3D®-Basics does mainly focus on the **fundamental basic issues** in regards to Stereo-3D and should help to bring the international “**Stereo-3D-community**” closer together.
 
 **Our Service to (potential) End-USER (business & private):**
 
