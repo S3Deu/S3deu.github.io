@@ -1,4 +1,4 @@
-# 3D, S3D and S3D® : What are the differences ?
+## 3D, S3D and S3D® : What are the differences?
 
 As far as the VISUALIZATION is concerned the use of the term “3D“ very often is misleading or at least end-user (= potential customer !!!) could understand it in a misleading way. Especially in the DDC (Digital Content Creation) area “3D“ normally does just express the use of 3-dimentional object models or data, however in most of the cases the visualization is possible ONLY in 2D!
 
