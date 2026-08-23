@@ -1,0 +1,23 @@
+Schriften dieser Website — Lizenznachweis
+=========================================
+
+Verwendet werden zwei Schriftfamilien, beide unter der SIL Open Font License 1.1 (OFL):
+
+  Space Grotesk   Ueberschriften, Schnitte 400/500/600/700
+                  Copyright 2020 The Space Grotesk Project Authors
+                  https://github.com/floriankarsten/space-grotesk
+                  Lizenztext: OFL-Space-Grotesk.txt
+
+  Inter           Fliesstext, Schnitte 400/500/600
+                  Copyright (c) 2016 The Inter Project Authors
+                  https://github.com/rsms/inter
+                  Lizenztext: OFL-Inter.txt
+
+Die OFL erlaubt ausdruecklich die kommerzielle Nutzung, das Einbetten in Webseiten und die
+Weitergabe — gebuehrenfrei, ohne Registrierung, ohne gesonderte Vereinbarung. Auflagen
+betreffen nur den Verkauf der Schrift fuer sich allein und den Reserved Font Name bei
+Veraenderung. Eine sichtbare Namensnennung auf der Website verlangt die OFL nicht.
+
+Die Schriftdateien liegen seit dem 20.08.2026 in diesem Ordner und werden vom eigenen Server
+ausgeliefert. Es geht keine Anfrage an Google, Adobe oder einen anderen fremden Anbieter, und
+damit auch keine Besucher-IP.
